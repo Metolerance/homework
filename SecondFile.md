@@ -16,3 +16,21 @@
 ```python
 print('hello world')
 ```
+
+#### This is a block quote
+> block quote
+
+#### This is a bulleted list
+* first item
+* second item
+* third item
+
+#### This is a numbered list
+1. first item
+2. second item
+3. third item
+
+#### This a table
+| name | feature |
+| :--: | :-----: |
+| zhangsan | criminal |
