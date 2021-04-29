@@ -46,4 +46,6 @@ print('hello world')
 ~~strikethrough text~~
 
 #### This is text with horizontal rule
+```html
 <u>horizontal rule</u>
+```
