@@ -45,5 +45,5 @@ print('hello world')
 #### This is strikethrough text
 ~~strikethrough text~~
 
-#### This horizontal rule
+#### This is a horizontal rule
 ***
