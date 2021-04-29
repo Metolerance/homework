@@ -34,3 +34,16 @@ print('hello world')
 | name | feature |
 | :--: | :-----: |
 | zhangsan | criminal |
+| lisi | victim |
+
+#### This is bolded text
+**Bolded Text**
+
+#### This is italicized text
+*italicized text*
+
+#### This is strikethrough text
+~~strikethrough text~~
+
+#### This is text with horizontal rule
+<u>horizontal rule</u>
